@@ -1,13 +1,38 @@
-Artistas Id:
 
-Slipknot - 05fG473iIaoy82BF1aGhL8
+# API Spotify Clone
 
-Disturbed - 3TOqt5oJwL9BE2NG9MEwDa
+Esta API foi criada para realizar uma comunicação entre o modúlo [Spotify-Web-Api-Node](https://github.com/thelinmichael/spotify-web-api-node) e o Front-end do projeto clon que se encontra no repositório: [Spotify-Clone--Typescript-React-App](https://github.com/jaymeco/Spotify-Clone--Typescript-React-App)
 
-AC/DC - 711MCceyCBcFnzjGY4Q7Un
 
-Iron Maiden - 6mdiAmATAx73kdxrNrnlao
+## Rodando o projeto
 
-Queen - 1dfeR4HaWDbWqFHLkxsg1d
+Clone o repositório
 
-Metalica - 
+```bash
+  git clone https://github.com/jaymeco/API-Spotify-middle.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd API-Spotify-middle
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Incialize o servidor
+
+```bash
+  npm run start
+```
+
+  
+## Informações adicionais
+
+Este projeto é de extrema importância para a aplicação [Front-end desse projeto clone](https://github.com/jaymeco/Spotify-Clone--Typescript-React-App). Sem ela o projeto clone Spotify não possui usabilidade.
+
+  
